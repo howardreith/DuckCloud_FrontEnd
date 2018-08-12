@@ -2,7 +2,7 @@
 ### A web application by SquishyDucks
 
 * Deployed Front-End: https://squishyducks.github.io/DuckCloud_FrontEnd/
-* Deployed Back-End: https://serene-eyrie-91568.herokuapp.com/
+* Deployed Back-End: https://thawing-badlands-39694.herokuapp.com/
 * Front-End Repo: https://github.com/SquishyDucks/DuckCloud_FrontEnd
 * Back-End Repo: https://github.com/SquishyDucks/DuckCloud_BackEnd
 
